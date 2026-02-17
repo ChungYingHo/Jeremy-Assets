@@ -1,0 +1,18 @@
+# Jeremy-Assets
+
+Public image CDN repository for blog and technical documentation.
+
+This repo is served via jsDelivr CDN.
+
+---
+
+## Usage
+
+Base URL format:
+
+https://cdn.jsdelivr.net/gh/ChungYingHo/Jeremy-Assets@master/{filePath}
+
+Example:
+
+https://cdn.jsdelivr.net/gh/ChungYingHo/Jeremy-Assets@master/jeremy-and-aira/async-flow.png
+
